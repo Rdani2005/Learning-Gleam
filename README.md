@@ -27,6 +27,6 @@ Here are some steps and resources to help you get started with Gleam:
 
 ## License
 
-This repository is licensed under the [MIT License](./LICENSE.md). See the [LICENSE file](./LICENSE.md) for more information.
+This repository is licensed under the [MIT License](./LICENSE). See the [LICENSE file](./LICENSE) for more information.
 
 Happy coding with Gleam!
